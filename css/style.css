@@ -1,0 +1,10 @@
+@import url(../css/header.css);
+@import url(../css/introducao.css);
+@import url(../css/tecnologia.css);
+@import url(../css/formacao.css);
+@import url(../css/contato.css);
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+}
